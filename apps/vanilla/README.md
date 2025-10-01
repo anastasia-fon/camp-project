@@ -1,4 +1,4 @@
-# Camp vanilla boilerplate
+# Camp vanilla
 
 ## Usage
 
