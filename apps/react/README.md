@@ -1,6 +1,6 @@
-# react-camp-boilerplate
+# react-project
 
-React project boilerplate for JS camp. Contains examples of how features, components, Redux store, routing and etc. should be implemented. When you start working on your own React project, update its name and description, remove code examples.
+React project for JS camp.
 
 ## Available Scripts
 
