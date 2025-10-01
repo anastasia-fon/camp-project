@@ -1,7 +1,6 @@
-# saritasa-frontend-boilerplate-camp
+# camp-project
 
-Monorepo with Angular, React, Vanilla TS boilerplates for JS camp. Created with [Nx](https://nx.dev/). Update project name and description, when you start working on your own project.
-
+Monorepo with Angular, React and Vanilla TS for JS camp. Created with [Nx](https://nx.dev/).
 ## Installation
 
 `npm install` to install all required dependencies.
@@ -25,8 +24,6 @@ npm run [project]:build
 ```
 
 ### Linting
-
-You can read about linting on the [wiki](https://wiki.saritasa.rocks/frontend/tools/linting/).
 
 To manually run `eslint` over your code, you can perform command in the terminal.
 
